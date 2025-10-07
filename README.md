@@ -46,7 +46,7 @@ java -cp src Main
 ## 🧠 Example Gameplay
 ```
 Welcome to Tic Tac Toe!
-
+```
  1 | 2 | 3
 ---+---+---
  4 | 5 | 6
